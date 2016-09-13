@@ -1,0 +1,24 @@
+  box1 2 $111.99 Apple iPod Touch 4th Generation 8GB
+add result = 1
+  box1  2  $105.75  Apple iPhone 3GS
+add result = 1
+  box1  2  $105.75  Apple iPhone 3GS
+  box1  3  $172.50  Samsung Captivate SGH-I897
+add result = 1
+add result = 1
+add result = 1
+  box2  2  $322.50  Apple iPad 2 16GB WiFi
+  box1  2  $105.75  Apple iPhone 3GS
+  box2  1  $215.35  Blackberry RIM Bold 9930
+  box3  1  $215.35  Blackberry RIM Bold 9930
+  box1  3  $172.50  Samsung Captivate SGH-I897
+delete result = 1
+delete result = 1
+  box2  2  $322.50  Apple iPad 2 16GB WiFi
+  box1  2  $105.75  Apple iPhone 3GS
+  box2  1  $215.35  Blackberry RIM Bold 9930
+total quantity (should be 5) = 5
+add result = 0
+  box2  2  $322.50  Apple iPad 2 16GB WiFi
+  box1  2  $105.75  Apple iPhone 3GS
+  box2  1  $215.35  Blackberry RIM Bold 9930
